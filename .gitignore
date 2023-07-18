@@ -21,3 +21,4 @@
 *.log
 logs/
 config.toml
+test.sh
